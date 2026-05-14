@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"chat.tools.terminal.autoApprove": {
+			"/^python -m py_compile \"c:\\\\GitRepo\\\\SaluteSanitationQR\\\\generate_latrine__qr_svgs\\.py\" ; if \\(\\$\\?\\) \\{ \"Syntax OK\" \\} else \\{ \"Syntax errors found\" \\}$/": {
+				"approve": true,
+				"matchCommandLine": true
+			}
+		}
+	}
+}
